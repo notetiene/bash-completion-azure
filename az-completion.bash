@@ -1,3 +1,8 @@
+# -*- mode: sh; sh-shell: bash -*-
+# vim:ft=sh:
+
+# /bin/echo -e '\033[1;32mIn .bash/bash-completion.d/az-completion.bash\033[0m'
+
 # Taken from:
 # https://raw.githubusercontent.com/Azure/azure-cli/dev/az.completion
 _az_python_argcomplete() {
