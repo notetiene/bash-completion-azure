@@ -4,6 +4,8 @@ This repository contains completion for [az (Azure cli)](https://cli.github.com/
 
 It's a dependency of [dotfiles-notetiene](https://github.com/notetiene/dotfiles-notetiene).
 
+Please note, it was copied from the said project.
+
 ## License
 This project is licensed under the MIT license.
 
